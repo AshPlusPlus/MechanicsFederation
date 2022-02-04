@@ -1,0 +1,13 @@
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\PlayerFdApp.exe
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\PlayerFdApp.pdb
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\Racon.dll
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\Racon.RtiLayer.dll
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\Racon.RtiLayer.Native.dll
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\Racon.xml
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\Racon.RtiLayer.xml
+C:\Users\ahmed\source\repos\PlayerFdApp\obj\Debug\PlayerFdApp.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\PlayerFdApp\obj\Debug\PlayerFdApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\PlayerFdApp\obj\Debug\PlayerFdApp.csproj.CopyComplete
+C:\Users\ahmed\source\repos\PlayerFdApp\obj\Debug\PlayerFdApp.exe
+C:\Users\ahmed\source\repos\PlayerFdApp\obj\Debug\PlayerFdApp.pdb
+C:\Users\ahmed\source\repos\PlayerFdApp\bin\Debug\PlayerFdApp.exe.config

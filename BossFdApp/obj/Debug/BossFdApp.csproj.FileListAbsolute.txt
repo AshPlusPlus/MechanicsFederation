@@ -1,0 +1,13 @@
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\BossFdApp.exe.config
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\BossFdApp.exe
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\BossFdApp.pdb
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\Racon.dll
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\Racon.RtiLayer.dll
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\Racon.RtiLayer.Native.dll
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\Racon.xml
+C:\Users\ahmed\source\repos\BossFdApp\bin\Debug\Racon.RtiLayer.xml
+C:\Users\ahmed\source\repos\BossFdApp\obj\Debug\BossFdApp.csprojAssemblyReference.cache
+C:\Users\ahmed\source\repos\BossFdApp\obj\Debug\BossFdApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\BossFdApp\obj\Debug\BossFdApp.csproj.CopyComplete
+C:\Users\ahmed\source\repos\BossFdApp\obj\Debug\BossFdApp.exe
+C:\Users\ahmed\source\repos\BossFdApp\obj\Debug\BossFdApp.pdb
